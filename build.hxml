@@ -1,0 +1,3 @@
+-main popcorn.Playground
+-cp src
+-js bin.js
